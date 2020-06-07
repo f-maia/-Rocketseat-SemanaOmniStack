@@ -1,0 +1,2 @@
+uploads/tmp/*
+!uploads/tmp/.gitkeep
